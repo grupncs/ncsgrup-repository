@@ -1,2 +1,2 @@
-# ncsgrup-repository
-Repository untuk menyimpan rencana ncsgrup-repository kedepan
+# ncsgrup-resolusi
+Resolusi untuk menyimpan rencana ncsgrup-resolusi kedepan
