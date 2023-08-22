@@ -1,0 +1,4 @@
+NCS Grup Resolusi
+- membuat konten 2x semingu
+- membuat platform pengelolaan video
+- membuat forum diskusi
